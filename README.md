@@ -1,6 +1,6 @@
 # Statistical Hypothesis Tests for Business Decision Making
 
-*Author:* [zubyr09](https://github.com/zubyr09)
+*Author:* **Afridi Jubair** [zubyr09](https://github.com/zubyr09)
 *Repository:* [Statistical-Hypothesis-Tests-for-Business-Decision-Making](https://github.com/zubyr09/Statistical-Hypothesis-Tests-for-Business-Decision-Making)
 
 ## Overview
