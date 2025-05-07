@@ -72,7 +72,7 @@ The significance level (alpha, α) used for all tests is *0.05*.
 
 ### Notebook Link
 <a id="notebook-link-ab-testing"></a>
-[Analyzing_Website_Layout_Engagement_via_AB_Test.ipynb](https://github.com/zubyr09/Statistical-Hypothesis-Tests-for-Business-Decision-Making/main/Analyzing_Website_Layout_Engagement_via_AB_Test.ipynb)
+[Analyzing_Website_Layout_Engagement_via_AB_Test.ipynb](https://github.com/zubyr09/Statistical-Hypothesis-Tests-for-Business-Decision-Making/blob/main/Analyzing_Website_Layout_Engagement_via_AB_Test.ipynb)
 
 ### Test Used
 <a id="test-used-ab-testing"></a>
@@ -90,7 +90,7 @@ The *Mann-Whitney U Test* (also known as the Wilcoxon rank-sum test) is a non-pa
 
 ### Scenario & Goal
 <a id="scenario--goal-ab-testing"></a>
-*Scenario:* Interactive Cares, a SaaS company, wants to test if a newly designed user dashboard (Version B) leads to higher average user engagement time (measured in minutes per session) compared to the current dashboard (Version A).
+*Scenario:* Interactive Cares, a Bangladeshi Skill Development Platform, wants to test if a newly designed user dashboard (Version B) leads to higher average user engagement time (measured in minutes per session) compared to the current dashboard (Version A).
 *Goal:* Determine if the difference in average engagement time is statistically significant.
 *Metric:* Average Session Duration (in minutes).
 
