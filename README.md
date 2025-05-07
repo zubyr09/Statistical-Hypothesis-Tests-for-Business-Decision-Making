@@ -131,7 +131,7 @@ The *Mann-Whitney U Test* (also known as the Wilcoxon rank-sum test) is a non-pa
 <a id="chi-square-test-customer-region-vs-support-channel-preference"></a>
 
 ### Notebook Link
-<a id="notebook-link-chi-square-independence"></a>
+<a id="notebook-link-chi-square-independence"> Open in New Tab </a>
 [Chi_Square_Test - Region_vs_Support_Channel_Preference.ipynb](https://github.com/zubyr09/Statistical-Hypothesis-Tests-for-Business-Decision-Making/blob/main/Chi_Square_Test%20-%20Region_vs_Support_Channel_Preference.ipynb)
 
 ### Test Used
@@ -175,7 +175,7 @@ Assumptions:
 <a id="comprehensive-hypothesis-tests-in-python"></a>
 
 ### Notebook Link
-<a id="notebook-link-comprehensive-tests"></a>
+<a id="notebook-link-comprehensive-tests"> Open in New Tab </a>
 [Comprehensive_Hypothesis_Tests_in_Python.ipynb](https://github.com/zubyr09/Statistical-Hypothesis-Tests-for-Business-Decision-Making/blob/main/Comprehensive_Hypothesis_Tests_in_Python.ipynb)
 
 This notebook covers a variety of parametric and non-parametric tests.
