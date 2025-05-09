@@ -72,7 +72,7 @@ The significance level (alpha, α) used for all tests is *0.05*.
 
 ### Notebook Link
 <a id="notebook-link-ab-testing"> Open in New Tab </a>
-[Analyzing_Website_Layout_Engagement_via_AB_Test.ipynb](https://github.com/zubyr09/Statistical-Hypothesis-Tests-for-Business-Decision-Making/blob/main/Analyzing_Website_Layout_Engagement_via_AB_Test.ipynb)
+[Analyzing_Website_Layout_Engagement_via_AB_Test.ipynb](https://github.com/zubyr09/Statistical-Hypothesis-Tests-for-Business-Decision-Making/blob/main/Analyzing_Website_Engagement_via_AB_Test.ipynb)
 
 
 
